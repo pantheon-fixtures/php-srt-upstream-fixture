@@ -11,3 +11,5 @@
 !composer.json
 !scripts
 !scripts/*
+!off-switches
+!off-switches/*
