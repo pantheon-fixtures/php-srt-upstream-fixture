@@ -11,5 +11,5 @@
 !composer.json
 !scripts
 !scripts/*
-!off-switches
-!off-switches/*
+!update-control
+!update-control/*
